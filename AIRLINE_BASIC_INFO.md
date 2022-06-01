@@ -1,14 +1,25 @@
-# **AIRLINE_DATA_PYSPARK_PROJECT**
-![image](https://user-images.githubusercontent.com/98200001/171403211-6902da17-3cd5-4d33-990b-86726bab167c.png)
+# **AIRLINE_DATA_PYSPARK_ASSIGNMENT**
 
-### **PROBLEM STATEMENT GIVEN :** 
-![image](https://user-images.githubusercontent.com/98200001/171403598-19091a62-cc73-4fa7-96ad-3ab915ee9508.png)
+![image](https://user-images.githubusercontent.com/98200001/171405243-a826bd17-379f-4fc1-9fce-31e9c2aa5913.png)
 
+| **ATTRIBUTE NAME** | **INFORMATION** |
+|---|---|
+|**Registrar**| **The name of the registrar office, generally this is government approval body governing the process.**|
+|**Enrolment Agency**| **The name of the private agency working for registration of Aadhaar cards in a particular region.** |
+|**State**| **The name of the state.** |
+|**District**| **The name of the district.** |
+|**Sub District**| **Name of the major cities in a particular district.** |
+|**Pin Code**| **The postal code of an area.** |
+|**Gender| **Gender of the person who is applying for Aadhaar.** |
+|**Age**| **Age of the person who is applying for Aadhaar.** |
+|**Aadhaar Generated**| **This is the total number of Aadhaar cards generated on a particular day.** |
+|**Enrolment Rejected**| **This is the total number of enrolments rejected on a particular day.** |
+|**Residents Providing Email**| **Whether the resident provided the email at the time of enrolment or not.** |
+|**Residents Providing Mobile Number**| **Whether the resident provided the mobile number at the time of enrolment or not.** |
 
+### **PROBLEM STATEMENT :**
+![image](https://user-images.githubusercontent.com/98200001/171405420-0c26fcf4-9b55-4bf3-a7b1-da8797802c55.png)
 
-![image](https://user-images.githubusercontent.com/98200001/171403399-334ededd-a97d-4d3f-ac1a-7938554a1c6e.png)
-![image](https://user-images.githubusercontent.com/98200001/171403730-7e9513a6-27fa-40a5-b54c-bc4c43dbe10d.png)
-![image](https://user-images.githubusercontent.com/98200001/171403839-49f9d938-a720-44f1-81f5-a604a24d0f85.png)
-![image](https://user-images.githubusercontent.com/98200001/171403880-b8b77d11-1b8b-47c5-a343-003e0a0ca82e.png)
-![image](https://user-images.githubusercontent.com/98200001/171403906-b892add5-1b55-4477-a57a-b1a32bfab8f0.png)
-![image](https://user-images.githubusercontent.com/98200001/171403936-d554066a-e9d0-49fb-b081-044a923989a3.png)
+### **SAMPLE DATASET :**
+![image](https://user-images.githubusercontent.com/98200001/171406863-e7d43d1d-3662-424a-b668-e0902e5ab50a.png)
+
