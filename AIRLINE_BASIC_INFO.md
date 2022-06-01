@@ -21,5 +21,5 @@
 ![image](https://user-images.githubusercontent.com/98200001/171405420-0c26fcf4-9b55-4bf3-a7b1-da8797802c55.png)
 
 ### **SAMPLE DATASET :**
-![image](https://user-images.githubusercontent.com/98200001/171406863-e7d43d1d-3662-424a-b668-e0902e5ab50a.png)
+![image](https://user-images.githubusercontent.com/98200001/171407058-a449edba-80d9-4d4c-8501-aac638e32127.png)
 
